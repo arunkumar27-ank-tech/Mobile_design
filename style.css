@@ -1,0 +1,234 @@
+body{
+    background-color:darkgreen;
+    position: relative;
+}
+.left{
+    position: absolute;
+    height: 80vh;
+    width:50vh;
+    background-color:white;
+    left: 10px;
+    border-radius: 15px;
+    top:40px;
+}
+
+.right{
+    position: absolute;
+    height: 80vh;
+    width:50vh;
+    background-color:white;
+    right: 10px;
+    border-radius: 15px;
+    top:40px;
+}
+.text1{
+    position: absolute;
+    bottom: 20%;
+    left: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+.text2{
+    position: absolute;
+    bottom: 8%;
+    left: 35px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+}
+.innerbox{
+    position: absolute;
+    height: 92%;
+    width: 80%;
+    background-color:rgb(128, 128, 128, 0.1);
+    left:3%;
+    top:2%;
+}
+.button{
+    position: absolute;
+    bottom: 3%;
+    left: 55px;
+    height: 30px;
+    background-color: rgba(128, 128, 128, 0.925, 0.9);
+    border-radius: 5px;
+    background-color: ;
+}
+.middle{
+    position: absolute;
+    height: 80vh;
+    width:50vh;
+    background-color: lightgreen;
+    left: 40%;
+    border-radius: 35px;
+}
+.txt1{
+    position: absolute;
+    top:20px;
+    left:20px;
+}
+.txt2{
+    position: absolute;
+    top:45px;
+    left: 20px;
+    
+}
+.fa-chevron-right{
+    position: absolute;
+    bottom: 20px;
+    left:38px;
+    display: inline;
+}
+.b1{
+    position: absolute;
+    width:85%;
+    height:20%;
+    background-color:rgba(0, 100, 0, 0.4);
+    left:20px;
+    top:27%;
+    border-radius: 15px;
+}
+.b2{
+    position: absolute;
+    width:45%;
+    height:10%;
+    background-color:rgba(0, 100, 0, 0.4);
+    left:20px;
+    top:60%;
+    border-radius: 15px;
+}
+.b3{
+    position: absolute;
+    width:45%;
+    height:10%;
+    background-color:rgba(0, 100, 0, 0.4);
+    right:8px;
+    top:60%;
+    border-radius: 15px;
+}
+.b4{
+    position: absolute;
+    width:45%;
+    height:10%;
+    background-color:rgba(0, 100, 0, 0.4);
+    left:20px;
+    top:75%;
+    border-radius: 15px;
+}
+.b5{
+    position: absolute;
+    width:45%;
+    height:10%;
+    background-color:rgba(0, 100, 0, 0.4);
+    right:8px;
+    top:75%;
+    border-radius: 15px;
+}
+.para{
+    position: absolute;
+    left: 10px;
+    
+}
+.week{
+    position: absolute;
+    top:48%;
+    left:20px;
+}
+.fa-home{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+.fa-user-alt{
+    position: absolute;
+    bottom: 10px;
+    left: 80px;
+}
+.fa-bell{
+    position: absolute;
+    bottom: 10px;
+    left: 150px;
+}
+.fa-coffee{
+    position: absolute;
+    bottom: 10px;
+    left: 230px;
+}
+.inrbox{
+    position: absolute;
+    left:10px;
+    bottom:1%;
+    height: 60%;
+    width: 90%;
+    background-color: rgba(169, 169, 169, 0.159);
+    border-radius: 10px;
+}
+.b6{
+    position: absolute;
+    width:75%;
+    height:20%;
+    background-color:rgba(0, 100, 0, 0.4);
+    right:8px;
+    top:75%;
+    border-radius: 15px;
+}
+.b7{
+    position: absolute;
+    width:75%;
+    height:20%;
+    background-color:rgba(0, 100, 0, 0.4);
+    right:8px;
+    top:53%;
+    border-radius: 15px;
+}
+.b8{
+    position: absolute;
+    width:75%;
+    height:20%;
+    background-color:rgba(0, 100, 0, 0.4);
+    right:8px;
+    top:31%;
+    border-radius: 15px;
+}
+.time{
+    position: absolute;
+    left:8px;
+    top:32%;
+    
+}
+.date{
+    position: absolute;
+    height: 30%;
+    width:90%;
+    left:10px;
+    top:20px;
+    
+}
+.apr{
+    position: absolute;
+    left: 30%;
+    top:0;
+}
+.may{
+    position: absolute;
+    right: 10%;
+    top:0;
+}
+.one{
+    position: absolute;
+    top:55px;
+    left:20px;
+    background-color: rgba(0, 128, 0, 0.3);
+    border-radius:10px;
+    height:60px;
+    width: 45px;
+    text-align: center;
+    justify-content: center;
+}
+.two{
+    position: absolute;
+    top:55px;
+    left:110px;
+}
+.three{
+    position: absolute;
+    top:55px;
+    left:210px;
+}
